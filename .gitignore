@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+##CUSTOM##
+src/main/webapp/WEB-INF/views/*
+!src/main/webapp/WEB-INF/views/.gitkeep

@@ -14,4 +14,9 @@ public class PayController {
     public String index() {
         return "index";
     }
+
+    @GetMapping("/pay")
+    public String pay() {
+        return "paySample";
+    }
 }
